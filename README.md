@@ -1,7 +1,7 @@
 <p align="center">
   <h1 align="center">Trino Distributed SQL Query Tool</h1>
   <p align="center">
-    <strong>English</strong> | <a href="README_ZH.md">Simplified Chinese</a>
+    <strong>English</strong> | <a href="README_ZH.md">简体中文</a>
   </p>
 
 ## Table of Contents
