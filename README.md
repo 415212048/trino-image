@@ -36,7 +36,7 @@ The open - source image product [**Trino Distributed SQL Query Tool**](https://m
 
 | Image Specification                                                                                                                              | Feature Description                                  | Remarks |
 |----------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------| --- |
-| [Trino475 - arm - v1.0](https://marketplace.huaweicloud.com/intl/hidden/contents/282358fb-8c3c-4984-839e-fc959ec7d8be) | Installed and deployed based on Kunpeng servers + Huawei Cloud EulerOS 2.0 64bit |  |
+| [Trino475 - arm - v1.0](https://github.com/HuaweiCloudDeveloper/trino-image/tree/Trino475-arm-v1.0) | Installed and deployed based on Kunpeng servers + Huawei Cloud EulerOS 2.0 64bit |  |
 
 ## Get Help
 - For more questions, you can contact us through [issue](https://github.com/HuaweiCloudDeveloper/trino-image/issues) or the service support of the specified product in the Huawei Cloud Marketplace.
